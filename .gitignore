@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Holodeck Beta 0.2_Unity/[Ll]ibrary/
+Holodeck Beta 0.2_Unity/[Tt]emp/
+Holodeck Beta 0.2_Unity/[Oo]bj/
+Holodeck Beta 0.2_Unity/[Bb]uild/
+Holodeck Beta 0.2_Unity/[Bb]uilds/
+Holodeck Beta 0.2_Unity/[Ll]ogs/
+Holodeck Beta 0.2_Unity/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
